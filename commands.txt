@@ -1,0 +1,9 @@
+. npm init -y
+. node my-srcipt.js
+. npm install --save-dev @babel/core @babel/node @babel/preset-env
+. npx babel-node main.js
+. npm install express
+. npm install --save-dev nodemon
+. npm install mongodb
+. npx nodemon --exec npx babel-node ./src/server.js
+. 
